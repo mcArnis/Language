@@ -1,0 +1,30 @@
+[https://Test]
+hostname = https://Test
+password = Luisa1985!
+token = 
+username = Arnis
+
+[https://.tx]
+hostname = https://.tx
+password = Luisa1985!
+token = 
+username = Arnis
+
+[https://www.transifex.com/projects/p/arnis]
+hostname = https://www.transifex.com/projects/p/arnis
+password = Luisa1985!
+token = 
+username = Arnis
+
+[https://www.transifex.net]
+hostname = https://www.transifex.com
+password = Luisa1985!
+token = 
+username = Arnis
+
+[https://www.transifex.com]
+hostname = https://www.transifex.com
+password = Luisa1985!
+token = 
+username = Arnis
+
